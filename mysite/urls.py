@@ -1,4 +1,6 @@
 from django.conf.urls import include, url
+
+sdasdasd
 from django.contrib import admin
 
 urlpatterns = [
